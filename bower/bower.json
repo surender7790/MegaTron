@@ -1,0 +1,22 @@
+{
+  "name": "conFusion",
+  "description": "project bower",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "conFusion"
+  ],
+  "authors": [
+    "surender kumar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
